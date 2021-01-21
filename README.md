@@ -1,5 +1,14 @@
-### Hi there 👋
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_bood)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brandon-ortiz/)
 
+## Hi there 👋
+Want to know more about me? [Check out my website.](https://bood-dev.github.io)
+
+## 📝 Latest Blog Posts
+
+## &#x1f4c8; GitHub Stats
+[![bood-dev's github stats](https://github-readme-stats.vercel.app/api?username=bood-dev&show_icons=true&theme=default)](https://github.com/bood-dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bood-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bood-dev/bood-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
